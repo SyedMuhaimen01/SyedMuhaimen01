@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedMuhaimen01
-- I am currently doing my bachelors in Computer Science from NUCES-FAST Islamabad. I am intrested in android development and have done several projects in this domain. 
+- Currently doing my bachelors in computer science, i am interested in the android/web development domain. I am passoinate about working in dynamic teams and contributing to team projects 
 
 <!---
 SyedMuhaimen01/SyedMuhaimen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

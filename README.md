@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @SyedMuhaimen01
-- Currently doing my bachelors in computer science, i am interested in the android/web development domain. I am passoinate about working in dynamic teams and contributing to team projects 
+# 👋 Hi, I'm Syed Muhaimen
 
-<!---
-SyedMuhaimen01/SyedMuhaimen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an **Application Developer** with professional experience building and maintaining applications using **Kotlin, Jetpack Compose, XML, MVVM, REST APIs, and Firebase**.
+
+I'm passionate about building reliable, user-focused applications and working with dynamic teams to solve real-world problems. I'm also exploring **Kotlin Multiplatform (KMP)** and cross-platform application development.
+
+### 🚀 What I Work With
+
+* 📱 Application Development — Kotlin, Jetpack Compose, XML
+* 🏗️ Architecture — MVVM, Clean Architecture, StateFlow
+* 🌐 Networking — REST APIs, Retrofit
+* 🔥 Firebase & Google Play Services
+* 🔐 Authentication & secure application workflows
+* 🌍 Kotlin Multiplatform — currently exploring
+
+### 💡 Interests
+
+* Application Development
+* Kotlin & Kotlin Multiplatform
+* FinTech & Healthcare Technology
+* Software Architecture
+* Building and contributing to real-world projects
+
+Thanks for visiting my profile! 🚀
